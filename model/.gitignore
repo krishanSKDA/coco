@@ -1,0 +1,4 @@
+# Training artefacts – the app serves its copy from frontend/public/models/
+*.pt
+*.onnx
+*.zip
